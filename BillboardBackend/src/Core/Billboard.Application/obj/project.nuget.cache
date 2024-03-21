@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5T55WjtGS/W/VNZw7zO7n69knolxrDljEaQEPcd9RvHQeNUVmFIIj0kvoeSP888F5ay9CdUH8AME6Q9+U3GtVg==",
+  "success": true,
+  "projectFilePath": "C:\\Center\\development\\Mobile\\BillboardProject\\BillboardBackend\\src\\Core\\Billboard.Application\\Billboard.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1bari\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\1bari\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\1bari\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\1bari\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

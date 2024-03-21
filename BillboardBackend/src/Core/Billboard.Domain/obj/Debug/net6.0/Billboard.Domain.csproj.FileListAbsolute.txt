@@ -1,0 +1,12 @@
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\bin\Debug\net6.0\Billboard.Domain.deps.json
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\bin\Debug\net6.0\Billboard.Domain.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\bin\Debug\net6.0\Billboard.Domain.pdb
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.AssemblyInfoInputs.cache
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.AssemblyInfo.cs
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.csproj.CoreCompileInputs.cache
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\refint\Billboard.Domain.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.pdb
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\ref\Billboard.Domain.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Domain\obj\Debug\net6.0\Billboard.Domain.sourcelink.json

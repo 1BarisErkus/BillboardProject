@@ -1,0 +1,16 @@
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\bin\Release\net6.0\Billboard.Application.deps.json
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\bin\Release\net6.0\Billboard.Application.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\bin\Release\net6.0\Billboard.Application.pdb
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\bin\Release\net6.0\Billboard.Domain.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\bin\Release\net6.0\Billboard.Domain.pdb
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.csproj.AssemblyReference.cache
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.AssemblyInfoInputs.cache
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.AssemblyInfo.cs
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.csproj.CoreCompileInputs.cache
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.sourcelink.json
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.csproj.CopyComplete
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\refint\Billboard.Application.dll
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\Billboard.Application.pdb
+C:\Center\development\Mobile\BillboardProject\BillboardBackend\src\Core\Billboard.Application\obj\Release\net6.0\ref\Billboard.Application.dll
